@@ -1,0 +1,10 @@
+<MWFConfig>
+  <FileDialog>
+    <value name="LastFolder" type="string">D:\irai\z_fixedProject\TAMUsanRLIv\fix_comment</value>
+    <value name="FileNames" type="string-array" />
+    <value name="Width" type="int">555</value>
+    <value name="X" type="int">675</value>
+    <value name="Y" type="int">308</value>
+    <value name="Height" type="int">385</value>
+  </FileDialog>
+</MWFConfig>

@@ -1,0 +1,10 @@
+<MWFConfig>
+  <FileDialog>
+    <value name="LastFolder" type="string">D:\z_record\unity\vjtest1</value>
+    <value name="FileNames" type="string-array" />
+    <value name="Width" type="int">555</value>
+    <value name="X" type="int">1155</value>
+    <value name="Y" type="int">473</value>
+    <value name="Height" type="int">424</value>
+  </FileDialog>
+</MWFConfig>
